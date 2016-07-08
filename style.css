@@ -1,0 +1,37 @@
+body {
+	
+    background-color: #4dd2ff;
+
+}
+
+h1{
+	font-size: 54px
+}
+
+img {
+	display: block;
+}
+
+#title {
+	background: #ff3333;
+
+	width: 400px;
+
+	padding-left: 10px;
+
+	padding-bottom: 15px;
+
+	border-radius: 15px;
+}
+
+#main {
+	background: #ffffff;
+
+	width: 700px;
+
+	padding-left: 10px;
+
+	padding-bottom: 15px;
+
+	border-radius: 15px;
+}
